@@ -5,7 +5,7 @@
   Go to [Github](github.com), click Sign up, and follow the prompts (email, username, password, verification). Choose a     professional username — you'll share it often, e.g. as part of a website URL later.
   
 2. Install **Git Bash**
-  Download Git for Windows from [git-scm.com/downloads](git-scm.com/downloads) and run the installer. Accept the defaults unless you have a reason not to — Git Bash gives you a Linux-style terminal with Git built in.
+  Download Git for Windows from [git-scm.com/downloads](git-scm.com/downloads) and run the installer. Accept the defaults unless you have a reason not to — Git Bash gives you a ***Linux-style*** terminal with Git built in.
   
 3. Install **Notepad++**
 Download from [Notepad++](notepad-plus-plus.org) and install it. You'll use this to open and edit the files inside your cloned repositories.
@@ -22,12 +22,12 @@ Open Git Bash and run these two checks. If both return version numbers, you're r
 
 ```lang ... ```
 
+
 | Test 1 | Review 1 | Test 2 | Review 2 |
 |---|----|---|----|
 |Test1|Review is done|Test2|Review is on-going|
 
-![Process_flow](Process and work flow.svg)
 
-
+~~DO NOT use this~~
 
 
